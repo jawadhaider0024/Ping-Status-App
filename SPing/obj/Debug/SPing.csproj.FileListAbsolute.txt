@@ -1,0 +1,9 @@
+D:\BLOOD_BANK\SPing\SPing\bin\Debug\SPing.exe.config
+D:\BLOOD_BANK\SPing\SPing\obj\Debug\SPing.csprojResolveAssemblyReference.cache
+D:\BLOOD_BANK\SPing\SPing\obj\Debug\SPing.Form1.resources
+D:\BLOOD_BANK\SPing\SPing\obj\Debug\SPing.Properties.Resources.resources
+D:\BLOOD_BANK\SPing\SPing\obj\Debug\SPing.csproj.GenerateResource.Cache
+D:\BLOOD_BANK\SPing\SPing\bin\Debug\SPing.exe
+D:\BLOOD_BANK\SPing\SPing\bin\Debug\SPing.pdb
+D:\BLOOD_BANK\SPing\SPing\obj\Debug\SPing.exe
+D:\BLOOD_BANK\SPing\SPing\obj\Debug\SPing.pdb
